@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "app_agendamento"
+    },
+    "app_agendamento": {
+      "applicationId": "b5Oz15zjWOMA0nvO8XdOv7GEsvLuVtMr6tArjKVZ"
+    }
+  }
+}
